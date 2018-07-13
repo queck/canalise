@@ -18,3 +18,8 @@ qu ⠶ can
 - `canalise` (shortname `can`, and linked to the `cyl` icon)
 
 [1]: https://github.com/queck/feed-arc "qu⠶feed-arc"
+
+## Placement
+
+- Standard placement is under `queck` ⇒ `app` ⇒ `can`
+  - TODO: make this property into metadata somehow (YAML/JSON manifest?) and standardise across `qu` repos
