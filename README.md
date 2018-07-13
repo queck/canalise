@@ -2,7 +2,7 @@
 
 qu ⠶ can
 
-## spin⠶15may18⠶0: content as canalisation
+## spin⠶log⠶15may18⠶0: content as canalisation
 
 > Content can be seen as agentive 'platform' or canalisation in media theory terminology,
 > as evinced by CS/physics site arxiv 'overlay' platform 'arxiv-vanity' which indexes and
