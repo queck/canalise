@@ -10,7 +10,7 @@ qu ⠶ can
 > ought be applied to biorxiv, and to that end I would like to use queck to provide just such
 > an explorable interface to data science on biological science research.
 
-## qu⠶can
+## qu ⠶ can
 
 `canalise` is a queck component to handle the feeds made available through `qu`⠶[`feed-arc`][1]
 
