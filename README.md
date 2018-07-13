@@ -17,4 +17,4 @@ qu ⠶ can
 - `feed-arc` is a static store/index
 - `canalise` (shortname `can`, and linked to the `cyl` icon)
 
-[1]: qu⠶feed-arc "https://github.com/queck/feed-arc"
+[1]: https://github.com/queck/feed-arc "qu⠶feed-arc"
