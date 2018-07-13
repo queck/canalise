@@ -14,4 +14,7 @@ qu ⠶ can
 
 `canalise` is a queck component to handle the feeds made available through `qu`⠶[`feed-arc`][1]
 
+- `feed-arc` is a static store/index
+- `canalise` (shortname `can`, and linked to the `cyl` icon)
+
 [1]: qu⠶feed-arc "https://github.com/queck/feed-arc"
